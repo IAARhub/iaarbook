@@ -1,0 +1,7 @@
+site_name: Libro online de IAAR
+pages:
+    - Inteligencia Artificial: index.md
+    - Deep Learning: deeplearning.md
+    - Sobre IAAR: about.md
+    - Contacto: contact.md
+theme: readthedocs
