@@ -1,4 +1,4 @@
-## **IAAR** es la comunidad argentina de inteligencia artificial
+## **[IAAR](http://iaar.site/)** es la comunidad argentina de inteligencia artificial
 
 Agrupa a ingenieros, desarrolladores, emprendedores, investigadores, entidades gubernamentales y empresas en pos del desarrollo ético y humanitario de las tecnologías cognitivas.
 
@@ -16,5 +16,9 @@ Agrupa a ingenieros, desarrolladores, emprendedores, investigadores, entidades g
 * **Empatía:** La vision de todos los afectados es tenida en cuenta.
 * **Comunicación:** Abierta, honesta, directa y efectiva.
 * **Transparencia:** Todas las operaciones estan abiertas a la comunidad.
+
+## Sumarse a la comunidad
+
+Los invitamos a sumarse a comunidad, nos pueden encontrar en los grupos de facebook [IAAR](https://www.facebook.com/groups/InteligenciaArtificialArgentina/), [IAAR capacitaciones](https://www.facebook.com/groups/ClusterCapacitacionIAAR/), [IAAR debates](https://www.facebook.com/groups/1475242589176918/) y [IAAR proyectos](https://www.facebook.com/groups/ClusterProyectosIAAR/); o visitando el [blog de IAAR](https://iaarhub.github.io/). También les recomendamos estar atentos a nuestros [meetups](https://www.meetup.com/es-ES/InteligenciaArtificialArgentina/).
 
 ![IAAR](https://iaarhub.github.io/theme/images/IAAR-foto.jpeg)

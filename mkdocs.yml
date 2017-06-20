@@ -2,8 +2,13 @@ site_name: Libro online de IAAR
 pages:
     - Inteligencia Artificial: index.md
     - Deep Learning: deeplearning.md
+    - Machine Learning: ML.md
+    - Ciencia de datos: datascience.md
     - Sobre IAAR: about.md
+    - Sobre el autor: autor.md
     - Contacto: contact.md
 theme: readthedocs
 site_url: https://iaarbook.github.io/
 site_description: 'Libro online de la comunidad de Inteligencia Artificial Argentina IAAR'
+google_analytics: ['UA-29080434-5', 'iaarbook']
+theme_dir: myTheme
