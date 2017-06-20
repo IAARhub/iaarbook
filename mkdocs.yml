@@ -5,3 +5,5 @@ pages:
     - Sobre IAAR: about.md
     - Contacto: contact.md
 theme: readthedocs
+site_url: https://iaarbook.github.io/
+site_description: 'Libro online de la comunidad de Inteligencia Artificial Argentina IAAR'
