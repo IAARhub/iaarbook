@@ -4,6 +4,8 @@ pages:
     - Deep Learning: deeplearning.md
     - Machine Learning: ML.md
     - Ciencia de datos: datascience.md
+    - Intro Python: python.md
+    - Intro R: rlang.md
     - Sobre IAAR: about.md
     - Sobre el autor: autor.md
     - Contacto: contact.md
