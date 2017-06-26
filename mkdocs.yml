@@ -4,6 +4,8 @@ pages:
     - Deep Learning: deeplearning.md
     - Machine Learning: ML.md
     - Ciencia de datos: datascience.md
+    - Big Data: bigdata.md
+    - Procesamiento de lenguaje: NLP.md
     - Intro Python: python.md
     - Intro R: rlang.md
     - Sobre IAAR: about.md

@@ -1,8 +1,6 @@
 # Introducción al Deep Learning
 
-<img src="https://iaarhub.github.io/images/Inteligencia-Artificial-Deep-Learning.jpg" title="Deep Learning" alt="Deep Learning">
-
-## Introducción <a name="intro-DL"></a>
+<center><img src="https://iaarhub.github.io/images/Inteligencia-Artificial-Deep-Learning.jpg" title="Deep Learning" alt="Deep Learning"></center>
 
 El [Deep Learning](https://es.wikipedia.org/wiki/Aprendizaje_profundo) es sin duda el área de investigación más popular dentro del campo de la [inteligencia artificial](https://iaarhub.github.io/capacitacion/2017/04/30/introduccion-a-la-inteligencia-artificial/). La mayoría de las nuevas investigaciones que se realizan, trabajan con modelos basados en las técnicas de [Deep Learning](https://es.wikipedia.org/wiki/Aprendizaje_profundo); ya que las mismas han logrado resultados sorprendes en campos como [Procesamiento del lenguaje natural](https://es.wikipedia.org/wiki/Procesamiento_de_lenguajes_naturales) y [Visión por computadora](https://es.wikipedia.org/wiki/Visi%C3%B3n_artificial). Pero... ¿qué es este misterioso concepto que ha ganado tanta popularidad? y... ¿cómo se relaciona con el campo de la [inteligencia artificial](https://iaarhub.github.io/capacitacion/2017/04/30/introduccion-a-la-inteligencia-artificial/) y el [Machine Learning](http://relopezbriega.github.io/category/machine-learning.html)?. 
 

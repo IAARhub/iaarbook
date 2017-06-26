@@ -2,6 +2,8 @@
 
 Ponerse en contacto con nosotros es muy fácil. Completa el siguiente formulario:
 
+También pueden anotarse en el siguiente [formulario](http://iaar.site/contacto)
+
 <form action="//formspree.io/relopezbriega@gmail.com" method="POST">
     <fieldset>
         <strong><label for="name">Su nombre</label></strong><br>
