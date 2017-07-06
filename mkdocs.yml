@@ -10,6 +10,9 @@ pages:
     - Intro R: rlang.md
     - Sobre IAAR: about.md
     - Sobre el autor: autor.md
+    - Recursos: recursos.md
+    - Bibliografía: bibliografia.md
+    - Glosario: glosario.md
     - Contacto: contact.md
 theme: readthedocs
 site_url: https://iaarbook.github.io/
