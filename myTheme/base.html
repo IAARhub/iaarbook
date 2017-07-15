@@ -22,6 +22,7 @@
   <link rel="stylesheet" href="{{ base_url }}/css/theme.css" type="text/css" />
   <link rel="stylesheet" href="{{ base_url }}/css/theme_extra.css" type="text/css" />
   <link rel="stylesheet" href="{{ base_url }}/css/highlight.css">
+  <link rel="stylesheet" href="{{ base_url }}/css/social-share-kit.css">
   {%- for path in extra_css %}
   <link href="{{ path }}" rel="stylesheet">
   {%- endfor %}
@@ -39,6 +40,7 @@
   <script src="{{ base_url }}/js/jquery-2.1.1.min.js"></script>
   <script src="{{ base_url }}/js/modernizr-2.8.3.min.js"></script>
   <script type="text/javascript" src="{{ base_url }}/js/highlight.pack.js"></script>
+  <script type="text/javascript" src="{{ base_url }}/js/social-share-kit.min.js"></script>
   {%- endblock %}
 
   {%- block extrahead %} {% endblock %}
@@ -72,6 +74,14 @@
         {% include "searchbox.html" %}
 	{%- endblock %}
       </div>
+      <!-- Left & centered positioning -->
+<div class="ssk-sticky ssk-right ssk-center ssk-lg ssk-sticky-hide-xs">
+    <a href="" class="ssk ssk-facebook"></a>
+    <a href="" class="ssk ssk-twitter"></a>
+    <a href="" class="ssk ssk-linkedin"></a>
+    <a href="" class="ssk ssk-google-plus"></a>
+    <a href="" class="ssk ssk-whatsapp"></a>
+</div>
 
       <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
         {%- block site_nav %}
