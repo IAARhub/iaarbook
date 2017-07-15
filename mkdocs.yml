@@ -5,14 +5,15 @@ pages:
     - Machine Learning: ML.md
     - Ciencia de datos: datascience.md
     - Big Data: bigdata.md
+    - Internet de las cosas: internet-de-las-cosas.md
     - Procesamiento de lenguaje: NLP.md
     - Intro Python: python.md
     - Intro R: rlang.md
-    - Sobre IAAR: about.md
-    - Sobre el autor: autor.md
-    - Recursos: recursos.md
     - Bibliografía: bibliografia.md
     - Glosario: glosario.md
+    - Recursos: recursos.md
+    - Sobre IAAR: about.md
+    - Sobre el autor: autor.md
     - Contacto: contact.md
 theme: readthedocs
 site_url: https://iaarbook.github.io/

@@ -28,6 +28,9 @@ Los <a href="https://en.wikipedia.org/wiki/Feature_(machine_learning)">Atributos
 ### Backpropagation <a name="Backprop"></a>
 La [propagación hacia atrás](https://es.wikipedia.org/wiki/Propagaci%C3%B3n_hacia_atr%C3%A1s) o backpropagation es un  [algoritmo](#Algoritmo) para el ajuste iterativo de los pesos utilizados por las [redes neuronales](#RedNeuronal).
 
+### BCI <a name="BCI"></a>
+[BCI](https://es.wikipedia.org/wiki/Interfaz_cerebro-computadora) o *Brain Computer interfaces* constituyen una tecnología que se basa en la adquisición de [ondas cerebrales](https://es.wikipedia.org/wiki/Ondas_cerebrales) para luego ser procesadas e interpretadas por una máquina u ordenador. Establecen el camino para interactuar con el exterior mediante nuestro pensamiento.
+
 ### Big Data <a name="BigData"></a>
 La [Big Data](https://iaarbook.github.io/bigdata/) es la rama de las [Teconlogías de la información](http://es.wikipedia.org/wiki/Tecnolog%C3%ADas_de_la_informaci%C3%B3n_y_la_comunicaci%C3%B3n) que estudia las dificultades inherentes a la manipulación de grandes [conjuntos de datos](#ConjDatos).
 
@@ -86,13 +89,25 @@ En [Estadística](http://relopezbriega.github.io/category/pobabilidad-y-estadist
 ### Inteligencia Artificial <a name="IA"></a>
 La [Inteligencia Artificial](https://iaarbook.github.io/) es el estudio de la infromática centrándose en el desarrollo de software o **máquinas que exhiben una inteligencia humana**.
 
+### Internet de las cosas <a name="IoT"></a>
+La [Internet de las cosas](https://iaarbook.github.io/internet-de-las-cosas/) o IoT es un concepto que se refiere a la interconexión digital de objetos cotidianos con internet, permitiendo la creación de un sin fin de sistemas inteligentes que aprovechan los beneficios de la [Big Data](https://iaarbook.github.io/bigdata/).
+
 <a name="J"></a>
 ### Java <a name="Java"></a>
-<a href="http://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)">Java</a> es un lenguaje de programación orientado a objetos diseñado para ser multiplataforma y poder ser empleado el mismo programa en diversos sistemas operativos. Es uno de los lenguajes más utilizados en el mundo empresarial por su alto rendimiento. 
+<a href="http://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)">Java</a> es un lenguaje de programación [orientado a objetos](https://es.wikipedia.org/wiki/Programaci%C3%B3n_orientada_a_objetos) diseñado para ser multiplataforma y poder ser empleado el mismo programa en diversos sistemas operativos. Es uno de los lenguajes más utilizados en el mundo empresarial por su alto rendimiento. 
+
+### Javascript <a name="Javascript"></a>
+[Javascript](https://es.wikipedia.org/wiki/JavaScript) es el lenguaje de programación de la [Web](https://es.wikipedia.org/wiki/World_Wide_Web). Se caracteriza por ser fácil de aprender, [orientado a objetos](https://es.wikipedia.org/wiki/Programaci%C3%B3n_orientada_a_objetos), interpretado y basado en prototipos. Es ideal para generar contenido dinámico en [internet](https://es.wikipedia.org/wiki/Internet).
 
 <a name="K"></a>
 ### Keras <a name="Keras"></a>
 [Keras](https://keras.io/) es una librería de alto nivel para [Deep Learning](https://iaarbook.github.io/deeplearning/), muy fácil de utilizar. Está escrita y mantenida por Francis Chollet, miembro del equipo de Google Brain. Permite a los usuarios elegir si los modelos que se construyen seran ejecutados en el grafo simbólico de [Theano](http://deeplearning.net/software/theano/), [TensorFlow](https://www.tensorflow.org/) o [CNTK](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/).
+
+### K-Means <a name="K-Means"></a>
+[K-means](https://es.wikipedia.org/wiki/K-means) es un [algoritmo](#Algoritmo) de [Machine Learning](https://iaarbook.github.io/ML/) [no supervisado](#AprendNoSupervisado) muy popular para problemas de *Agrupamiento*; funciona reduciendo al mínimo la suma de las distancias cuadradas desde la media dentro de un agrupamiento. Para hacer esto establece primero un número previamente especificado de conglomerados, $K$, y luego va asignando cada observación a la agrupación más cercana de acuerdo a su media.
+
+### KNN <a name="KNN"></a>
+[KNN](https://es.wikipedia.org/wiki/K-vecinos_m%C3%A1s_cercanos) o K vecinos más cercanos es un [algoritmo](#Algoritmo) de [Machine Learning](https://iaarbook.github.io/ML/) que consiste en realizar predicciones sobre una *clase* en base a la *clase* a la que pertenecen los puntos vecinos más cercanos al que intentamos predecir.
 
 <a name="M"></a>
 ### Machine Learning <a name="ML"></a>
@@ -141,6 +156,9 @@ En [Machine Learning](https://iaarbook.github.io/ML/), la [Regresión](https://e
 <a name="S"></a>
 ### Sobreajuste <a name="Sobreajuste"></a>
 En [Machine Learning](https://iaarbook.github.io/ML/) un [modelo](#Modelo) va a estar [sobreajustado](http://relopezbriega.github.io/blog/2016/05/29/machine-learning-con-python-sobreajuste/) cuando vemos que se desempeña bien con los datos de entrenamiento, pero su precisión es notablemente más baja con los datos de evaluación; esto se debe a que el modelo ha memorizado los datos que ha visto y no pudo *generalizar* las reglas para predecir los datos que no ha visto.
+
+### SVM <a name="SVM"></a>
+Las máquinas de vectores de soporte o [SVM](https://es.wikipedia.org/wiki/M%C3%A1quinas_de_vectores_de_soporte) es un [algoritmo](#Algoritmo) de [Machine Learning](https://iaarbook.github.io/ML/) cuya idea central consiste en encontrar un plano que separe los grupos dentro de los datos de la mejor forma posible. Aquí, la separación significa que la elección del plano maximiza el margen entre los puntos más cercanos en el plano; éstos puntos se denominan vectores de soporte.
 
 <a name="T"></a>
 ### Tensor <a name="Tensor"></a>

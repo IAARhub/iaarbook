@@ -1,5 +1,7 @@
 # Introducción a R
 
+<center><img alt="R" title="R" src="https://iaarbook.github.io/img/R-lang.png" width="30%" height="30%"></center>
+
 ## ¿Qué es R?
 
 [R](https://cloud.r-project.org/) es un lenguaje de programación [interpretado](https://es.wikipedia.org/wiki/Script) diseñado específicamente para el [análisis estadístico](http://relopezbriega.github.io/blog/2015/06/27/probabilidad-y-estadistica-con-python/) y la manipulación de datos. Esta inspirado, y es en su mayor medida compatible, por el lenguaje de programación <a href="https://en.wikipedia.org/wiki/S_(programming_language)">S</a> desarrollado por AT&T. Es ampliamente utilizado en todos los campos donde se deben manipular datos, como ser: los negocios, la industria, el gobierno, la medicina, el ámbito académico, y demás.

@@ -1,5 +1,7 @@
 # Recursos
 
+<center><img alt="Recursos" title="Recursos" src="https://iaarbook.github.io/img/IA-recursos.jpg" width="60%" height="60%"></center>
+
 Aquí van a poder encontrar algunos enlaces de interés a blogs, artículos y cursos relacionados con la la [Inteligencia Artificial](https://iaarbook.github.io/) y la [Ciencia de Datos](https://iaarbook.github.io/datascience/).
 
 * **[relopezbriega.github.io](http://relopezbriega.github.io/)**: En este blog van a poder encontrar varios artículos relacioneados a las matemáticas, el análisis de datos, la [Inteligencia Artificial](https://iaarbook.github.io/) y el [Machine Learning](https://iaarbook.github.io/ML/) utilizando [Python](https://iaarbook.github.io/python/). 
