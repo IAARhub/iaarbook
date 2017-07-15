@@ -80,7 +80,7 @@
     <a href="" class="ssk ssk-twitter"></a>
     <a href="" class="ssk ssk-linkedin"></a>
     <a href="" class="ssk ssk-google-plus"></a>
-    <a href="" class="ssk ssk-whatsapp"></a>
+    <a href="" class="ssk ssk-mail"></a>
 </div>
 
       <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
@@ -150,6 +150,9 @@ init_mathjax = function() {
 }
 init_mathjax();
 </script>
+<script type="text/javascript">
+  SocialShareKit.init();
+  </script>
     {%- for path in extra_javascript %}
       <script src="{{ path }}"></script>
     {%- endfor %}
