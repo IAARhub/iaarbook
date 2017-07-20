@@ -10,11 +10,11 @@ Pero, ¿qué es exactamente [Machine Learning](https://es.wikipedia.org/wiki/Apr
 
 ## Tipos de Machine Learning
 
-El [Machine Learning](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico) tiene una amplia gama de aplicaciones, incluyendo motores de búsqueda, diagnósticos médicos, detección de fraude en el uso de tarjetas de crédito, análisis del mercado de valores, clasificación de secuencias de ADN, reconocimiento del habla y del lenguaje escrito, juegos y robótica. Pero para poder abordar cada uno de estos temas es crucial en primer lugar distingir los distintos tipos de problemas de [Machine Learning](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico) con los que nos podemos encontrar.
+El [Machine Learning](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico) tiene una amplia gama de aplicaciones, incluyendo motores de búsqueda, diagnósticos médicos, detección de fraude en el uso de tarjetas de crédito, análisis del mercado de valores, clasificación de secuencias de ADN, reconocimiento del habla y del lenguaje escrito, juegos y robótica. Pero para poder abordar cada uno de estos temas es crucial en primer lugar distinguir los distintos tipos de problemas de [Machine Learning](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico) con los que nos podemos encontrar.
 
 ### Aprendizaje supervisado
 
-En los problemas de [aprendizaje supervisado](https://es.wikipedia.org/wiki/Aprendizaje_supervisado) se enseña o entrena al [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) a partir de datos que ya vienen etiquetados con la respuesta correcta. Cuanto mayor es el conjunto de datos más el [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) puede aprender sobre el tema. Una vez concluído el entrenamiento, se le brindan nuevos datos, ya sin las etiquetas de las respuestas correctas, y el [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) de aprendizaje utiliza la experiencia pasada que adquirió durante la etapa de entrenamiento para predecir un resultado. Esto es similar al método de aprendizaje que se utiliza en las escuelas, donde se nos enseñan problemas y las formas de resolverlos, para que luego podamos aplicar los mismos métodos en situaciones similares.
+En los problemas de [aprendizaje supervisado](https://es.wikipedia.org/wiki/Aprendizaje_supervisado) se enseña o entrena al [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) a partir de datos que ya vienen etiquetados con la respuesta correcta. Cuanto mayor es el conjunto de datos más el [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) puede aprender sobre el tema. Una vez concluido el entrenamiento, se le brindan nuevos datos, ya sin las etiquetas de las respuestas correctas, y el [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) de aprendizaje utiliza la experiencia pasada que adquirió durante la etapa de entrenamiento para predecir un resultado. Esto es similar al método de aprendizaje que se utiliza en las escuelas, donde se nos enseñan problemas y las formas de resolverlos, para que luego podamos aplicar los mismos métodos en situaciones similares.
 
 ### Aprendizaje no supervisado
 
@@ -66,7 +66,7 @@ Como siempre me gusta comentar, una de las grandes ventajas que ofrece [Python](
 
 ### Statsmodels
 
-[Statsmodels](http://statsmodels.sourceforge.net/) es otra gran librería que hace foco en modelos estadísticos y se utiliza principalmente para análisis predictivos y exploratorios. Al igual que [Scikit-learn](http://scikit-learn.org/stable/), también se integra muy bien con el resto de los paquetes cientificos de [Python](http://python.org/). Si deseamos ajustar modelos lineales, hacer una análisis estadístico, o tal vez un poco de modelado predictivo, entonces [Statsmodels](http://statsmodels.sourceforge.net/) es la librería ideal. Las pruebas estadísticas que ofrece son bastante amplias y abarcan tareas de validación para la mayoría de los casos. 
+[Statsmodels](http://statsmodels.sourceforge.net/) es otra gran librería que hace foco en modelos estadísticos y se utiliza principalmente para análisis predictivos y exploratorios. Al igual que [Scikit-learn](http://scikit-learn.org/stable/), también se integra muy bien con el resto de los paquetes científicos de [Python](http://python.org/). Si deseamos ajustar modelos lineales, hacer una análisis estadístico, o tal vez un poco de modelado predictivo, entonces [Statsmodels](http://statsmodels.sourceforge.net/) es la librería ideal. Las pruebas estadísticas que ofrece son bastante amplias y abarcan tareas de validación para la mayoría de los casos. 
 
 ### PyMC
 
@@ -90,7 +90,7 @@ Los [algoritmos](https://es.wikipedia.org/wiki/Algoritmo)  que más se suelen ut
 6. [KNN](https://es.wikipedia.org/wiki/K-vecinos_m%C3%A1s_cercanos) o K vecinos más cercanos.
 7. [K-means](https://es.wikipedia.org/wiki/K-means)
 
-Todos ellos se pueden aplicar a casi cualquier problema de datos y obviamente estan todos implementados por la excelente librería de [Python](http://python.org/), [Scikit-learn](http://scikit-learn.org/stable/). Veamos algunos ejemplos de ellos.
+Todos ellos se pueden aplicar a casi cualquier problema de datos y obviamente están todos implementados por la excelente librería de [Python](http://python.org/), [Scikit-learn](http://scikit-learn.org/stable/). Veamos algunos ejemplos de ellos.
 
 ### Regresión Lineal
 
@@ -352,7 +352,7 @@ En este ejemplo, nuestro árbol tiene una precisión del 89%. Tener en cuenta qu
 
 ### Random Forest
 
-En lugar de utilizar solo un arbol para decidir, ¿por qué no utilizar todo un bosque?!!. Esta es la idea central detrás del [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) de [Random Forest](https://es.wikipedia.org/wiki/Random_forest). Tarbaja construyendo una gran cantidad de [arboles de decision](https://es.wikipedia.org/wiki/%C3%81rbol_de_decisi%C3%B3n) muy poco profundos, y luego toma la clase que
+En lugar de utilizar solo un arbol para decidir, ¿por qué no utilizar todo un bosque?!!. Esta es la idea central detrás del [algoritmo](https://es.wikipedia.org/wiki/Algoritmo) de [Random Forest](https://es.wikipedia.org/wiki/Random_forest). Trabaja construyendo una gran cantidad de [arboles de decision](https://es.wikipedia.org/wiki/%C3%81rbol_de_decisi%C3%B3n) muy poco profundos, y luego toma la clase que
 cada árbol eligió. Esta idea es muy poderosa en [Machine Learning](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico). Si tenemos en cuenta que un sencillo clasificador entrenado podría tener sólo el 60 por ciento de precisión, podemos entrenar un montón de clasificadores que sean por lo general acertados y luego podemos utilizar la sabiduría de todos los aprendices juntos.
 Con [Python](http://python.org/) los podemos utilizar de la siguiente manera:
 
@@ -378,7 +378,7 @@ La idea detrás de [SVM](https://es.wikipedia.org/wiki/M%C3%A1quinas_de_vectores
 del plano maximiza el margen entre los puntos más cercanos en el plano; éstos puntos se denominan vectores de soporte. Pasemos al ejemplo.
 
 ```python
-# importanto SVM
+# importando SVM
 from sklearn import svm
 
 # importando el dataset iris

@@ -2,9 +2,9 @@
 
 <center><img alt="Recursos" title="Recursos" src="https://iaarbook.github.io/img/IA-recursos.jpg" width="60%" height="60%"></center>
 
-Aquí van a poder encontrar algunos enlaces de interés a blogs, artículos y cursos relacionados con la la [Inteligencia Artificial](https://iaarbook.github.io/) y la [Ciencia de Datos](https://iaarbook.github.io/datascience/).
+Aquí van a poder encontrar algunos enlaces de interés a blogs, artículos y cursos relacionados con la la [Inteligencia Artificial](https://iaarbook.github.io/inteligencia-artificial/) y la [Ciencia de Datos](https://iaarbook.github.io/datascience/).
 
-* **[relopezbriega.github.io](http://relopezbriega.github.io/)**: En este blog van a poder encontrar varios artículos relacioneados a las matemáticas, el análisis de datos, la [Inteligencia Artificial](https://iaarbook.github.io/) y el [Machine Learning](https://iaarbook.github.io/ML/) utilizando [Python](https://iaarbook.github.io/python/). 
+* **[relopezbriega.github.io](http://relopezbriega.github.io/)**: En este blog van a poder encontrar varios artículos relacionados a las matemáticas, el análisis de datos, la [Inteligencia Artificial](https://iaarbook.github.io/inteligencia-artificial/) y el [Machine Learning](https://iaarbook.github.io/machine-learning/) utilizando [Python](https://iaarbook.github.io/python/). 
 
 * **[IAAR](http://iaar.site/)**: El sitio de la comunidad argentina de inteligencia artificial [IAAR](http://iaar.site/).
 
@@ -20,7 +20,7 @@ Aquí van a poder encontrar algunos enlaces de interés a blogs, artículos y cu
 
 * **[IAAR proyectos](https://www.facebook.com/groups/ClusterProyectosIAAR/)**: El grupo de proyectos de [IAAR](http://iaar.site/).
 
-* **[Python Data Science Handbook](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)**: En este enlace se puden ver y descargar las [notebooks](http://jupyter.org/) de [Python](https://iaarbook.github.io/python/) del libro Python Data Science Handbook de Jake VanderPlas.
+* **[Python Data Science Handbook](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)**: En este enlace se pueden ver y descargar las [notebooks](http://jupyter.org/) de [Python](https://iaarbook.github.io/python/) del libro Python Data Science Handbook de Jake VanderPlas.
 
 * **[R for Data Science](http://r4ds.had.co.nz/)**: Enlace al libro R for Data Science de Hadley Wickham.
 

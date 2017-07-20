@@ -2,9 +2,9 @@
 
 <center><img alt="Python" title="Python" src="https://iaarbook.github.io/img/python-logo.png" width="50%" height="50%"></center>
 
-<a href="http://python.org" target="_blank" title="Python">Python</a> es actualmente uno de los lenguajes más utilizados en [inteligencia artificial](https://iaarbook.github.io/#introduccion-a-la-inteligencia-artificial) y [Ciencia de datos](https://iaarbook.github.io/datascience/); es un lenguaje de programación de alto nivel que se caracteriza por hacer hincapié en una sintaxis limpia, que favorece un código legible y fácilmente administrable. <a href="http://python.org" target="_blank" title="Python">Python</a> funciona en las plataformas Windows, Linux/Unix, Mac OS X e incluso ha sido portado a las máquinas virtuales de <a href="http://es.wikipedia.org/wiki/JVM" target="_blank" title="Máquina virtual Java">Java</a> (a través de [Jython](http://www.jython.org/)) y [.Net](http://es.wikipedia.org/wiki/Microsoft_.NET) (a través de [IronPython](http://ironpython.codeplex.com/)). <a href="http://python.org" target="_blank" title="Python">Python</a> es un lenguaje libre y fácil de aprender que te permite trabajar más rápido e integrar tus sistemas de manera más eficaz; con <a href="http://python.org" target="_blank" title="Python">Python</a> se puede ganar rápidamente en productividad.
+<a href="http://python.org" target="_blank" title="Python">Python</a> es actualmente uno de los lenguajes más utilizados en [inteligencia artificial](https://iaarbook.github.io/inteligencia-artificial/) y [Ciencia de datos](https://iaarbook.github.io/datascience/); es un lenguaje de programación de alto nivel que se caracteriza por hacer hincapié en una sintaxis limpia, que favorece un código legible y fácilmente administrable. <a href="http://python.org" target="_blank" title="Python">Python</a> funciona en las plataformas Windows, Linux/Unix, Mac OS X e incluso ha sido portado a las máquinas virtuales de <a href="http://es.wikipedia.org/wiki/JVM" target="_blank" title="Máquina virtual Java">Java</a> (a través de [Jython](http://www.jython.org/)) y [.Net](http://es.wikipedia.org/wiki/Microsoft_.NET) (a través de [IronPython](http://ironpython.codeplex.com/)). <a href="http://python.org" target="_blank" title="Python">Python</a> es un lenguaje libre y fácil de aprender que te permite trabajar más rápido e integrar tus sistemas de manera más eficaz; con <a href="http://python.org" target="_blank" title="Python">Python</a> se puede ganar rápidamente en productividad.
 
-[Python](http://python.org), a diferencia de otros lenguajes de programación como <a href="http://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)">C</a>, [C++](http://es.wikipedia.org/wiki/C%2B%2B) o <a href="http://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)">Java</a> es *interpretado y dinamicamente tipado*; lo que quiere decir que no es necesario compilar el fuente para poder ejecutarlo (*interpretado*) y que sus variables pueden tomar distintos tipos de objetos (*dinamicamente tipado*); esto hace que el lenguaje sea sumamente flexible y de rápida implementación; aunque pierde en rendimiento y es más propenso a errores de programación que los lenguajes antes mencionados.
+[Python](http://python.org), a diferencia de otros lenguajes de programación como <a href="http://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)">C</a>, [C++](http://es.wikipedia.org/wiki/C%2B%2B) o <a href="http://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)">Java</a> es *interpretado y dinámicamente tipado*; lo que quiere decir que no es necesario compilar el fuente para poder ejecutarlo (*interpretado*) y que sus variables pueden tomar distintos tipos de objetos (*dinámicamente tipado*); esto hace que el lenguaje sea sumamente flexible y de rápida implementación; aunque pierde en rendimiento y es más propenso a errores de programación que los lenguajes antes mencionados.
 
 ## Principales fortalezas de Python
 
@@ -14,7 +14,7 @@ Las principales fortalezas que hacen que uno ame a [Python](http://python.org) s
 
 * **Es software libre**. [Python](http://python.org) es completamente libre para ser utilizado y redistribuido; no posee restricciones para copiarlo, embeberlo en nuestros sistemas o ser vendido junto con otros productos. [Python](http://python.org) es un proyecto [*open source*](http://es.wikipedia.org/wiki/Open_source) que es administrado por [Python Software Foundation](http://es.wikipedia.org/wiki/Python_Software_Foundation), institución que se encarga de su soporte y desarrollo.
 
-* **Es portable**. La implementación estandar de [Python](http://python.org) esta escrita en <a href="http://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)">C</a>, y puede ser compilada y ejecutada en prácticamente cualquier plataforma que se les ocurra. Podemos encontrar a [Python](http://python.org) en pequeños dispositivos, como teléfonos celulares, hasta grandes infraestructuras de *Hardware*, como las supercomputadoras. Al ser un lenguaje *interpretado* el mismo *código fuente* puede ser ejecutado en cualquier plataforma sin necesidad de realizar grandes cambios.
+* **Es portable**. La implementación estándar de [Python](http://python.org) esta escrita en <a href="http://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)">C</a>, y puede ser compilada y ejecutada en prácticamente cualquier plataforma que se les ocurra. Podemos encontrar a [Python](http://python.org) en pequeños dispositivos, como teléfonos celulares, hasta grandes infraestructuras de *Hardware*, como las supercomputadoras. Al ser un lenguaje *interpretado* el mismo *código fuente* puede ser ejecutado en cualquier plataforma sin necesidad de realizar grandes cambios.
 
 * **Es poderoso**. [Python](http://python.org) proporciona toda la sencillez y facilidad de uso de un lenguaje de programación *interpretado*, junto con las más avanzadas herramientas de ingeniería de software que se encuentran típicamente en los lenguajes compilados. A diferencia de otros lenguajes *interpretados*, esta combinación hace a [Python](http://python.org) sumamente útil para proyectos de desarrollo a gran escala.
 
@@ -36,7 +36,7 @@ La forma más sencilla de poder instalar [Python](http://python.org) en Windows 
 
 Otra distribución de [Python](http://python.org) que pueden utilizar en Windows, es [WinPython](http://winpython.sourceforge.net/), la cual puede ser utilizada incluso en forma portable.
 
-## Librerías esenciales para el analisis de datos
+## Librerías esenciales para el análisis de datos
 
 ### Numpy
 
@@ -53,7 +53,7 @@ propósitos principales con respecto al análisis de datos es la utilización de
 
 ### Jupyter 
 
-[Jupyter](http://jupyter.org/) promueve un ambiente de trabajo de *ejecutar-explorar* en contraposición al tradicional modelo de desarrollo de software de *editar-compilar-ejecutar*. Es decir, que el problema computacional a resolver es más visto como todo un proceso de ejecucion de tareas, en lugar del tradicional modelo de producir una respuesta(`output`) a una pregunta(`input`).  [Jupyter](http://jupyter.org/) también provee una estrecha integración con nuestro sistema operativo, permitiendo acceder fácilmente a todos nuestros archivos desde la misma herramienta.
+[Jupyter](http://jupyter.org/) promueve un ambiente de trabajo de *ejecutar-explorar* en contraposición al tradicional modelo de desarrollo de software de *editar-compilar-ejecutar*. Es decir, que el problema computacional a resolver es más visto como todo un proceso de ejecución de tareas, en lugar del tradicional modelo de producir una respuesta(`output`) a una pregunta(`input`).  [Jupyter](http://jupyter.org/) también provee una estrecha integración con nuestro sistema operativo, permitiendo acceder fácilmente a todos nuestros archivos desde la misma herramienta.
 
 Algunas de las características sobresalientes de [Jupyter](http://jupyter.org/) son:
 
@@ -78,13 +78,13 @@ Algunas de las muchas ventajas que nos ofrece [Matplotlib](http://matplotlib.org
 
 ### Pandas
 
-[Pandas](http://pandas.pydata.org/) es una librería [open source](http://es.wikipedia.org/wiki/C%C3%B3digo_abierto) que aporta a [Python](http://python.org/) unas estructuras de datos fáciles de user y de alta performance, junto con un gran número de funciones esenciales para el análisis de datos. Con la ayuda de [Pandas](http://pandas.pydata.org/) podemos trabajar con *datos estructurados* de una forma más rápida y expresiva.
+[Pandas](http://pandas.pydata.org/) es una librería [open source](http://es.wikipedia.org/wiki/C%C3%B3digo_abierto) que aporta a [Python](http://python.org/) unas estructuras de datos fáciles de usar y de alta performance, junto con un gran número de funciones esenciales para el análisis de datos. Con la ayuda de [Pandas](http://pandas.pydata.org/) podemos trabajar con *datos estructurados* de una forma más rápida y expresiva.
 
 Algunas de las cosas sobresalientes que nos aporta [Pandas](http://pandas.pydata.org/) son:
 
 * Un rápido y eficiente objeto **`DataFrame`** para manipular datos con indexación integrada;
 * herramientas para la **lectura y escritura de datos** entre estructuras de datos rápidas y eficientes manejadas en memoria, como el `DataFrame`, con la mayoría de los formatos conocidos para el manejo de datos, como ser: CSV y archivos de texto, archivos Microsoft Excel, bases de datos [SQL](http://es.wikipedia.org/wiki/SQL), y el formato científico HDF5.
-* Proporciona una **alineación inteligente de datos** y un manejo integrado de los datos faltantes; con estas funciones podemos obtener una ganancia de performace en los cálculos entre `DataFrames` y una fácil manipulación y ordenamiento de los datos de nuestro `data set`;
+* Proporciona una **alineación inteligente de datos** y un manejo integrado de los datos faltantes; con estas funciones podemos obtener una ganancia de performance en los cálculos entre `DataFrames` y una fácil manipulación y ordenamiento de los datos de nuestro `data set`;
 * Flexibilidad para **manipular y redimensionar** nuestro `data set`, facilidad para construir [tablas pivote](http://es.wikipedia.org/wiki/Tabla_pivote);
 * La posibilidad de **filtrar los datos, agregar o eliminar columnas** de una forma sumamente expresiva;
 * Operaciones de ***merge* y *join*** altamente eficientes sobre nuestros conjuntos de datos;
@@ -96,12 +96,12 @@ Algunas de las cosas sobresalientes que nos aporta [Pandas](http://pandas.pydata
 
 ### Scikit-Lean
 
-[Scikit-learn](http://scikit-learn.org/stable/) es una librería especializada en algoritmos para [data mining](http://es.wikipedia.org/wiki/Miner%C3%ADa_de_datos) y [machine learning](https://iaarbook.github.io/ML/).  
+[Scikit-learn](http://scikit-learn.org/stable/) es una librería especializada en algoritmos para [data mining](http://es.wikipedia.org/wiki/Miner%C3%ADa_de_datos) y [machine learning](https://iaarbook.github.io/machine-learning/).  
 
 Algunos de los problemas que podemos resolver utilizando las herramientas de [Scikit-learn](http://scikit-learn.org/stable/), son:
 
 * <a href='http://scikit-learn.org/stable/supervised_learning.html#supervised-learning' target='_blank'>Clasificaciones</a>: Identificar las categorías a que cada observación del conjunto de datos pertenece.
-* <a href='http://scikit-learn.org/stable/supervised_learning.html#supervised-learning' target='_blank'>Regresiones</a>: Predecire el valor continuo para cada nuevo ejemplo.
+* <a href='http://scikit-learn.org/stable/supervised_learning.html#supervised-learning' target='_blank'>Regresiones</a>: Predecir el valor continuo para cada nuevo ejemplo.
 * <a href='http://scikit-learn.org/stable/modules/clustering.html#clustering' target='_blank'>Agrupaciones</a>: Agrupación automática de objetos similares en un conjunto.
 * <a href='http://scikit-learn.org/stable/modules/decomposition.html#decompositions' target='_blank'>Reducción de dimensiones</a>: Reducir el número de variables aleatorias a considerar.
 * <a href='http://scikit-learn.org/stable/model_selection.html#model-selection' target='_blank'>Selección de Modelos</a>: Comparar, validar y elegir parámetros y modelos.
@@ -130,7 +130,7 @@ En estos momentos, si hay un campo en donde [Python](http://python.org) sobresal
 
 * **[CNTK](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/)**: [CNTK](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/) es un conjunto de herramientas, desarrolladas por Microsoft, fáciles de usar, de código abierto que entrena algoritmos de [Deep Learning](https://iaarbook.github.io/deeplearning/) para aprender como el cerebro humano.
 
-* **[Keras](https://keras.io/)**: [Keras](https://keras.io/) es una librería de alto nivel, muy fácil de utilizar. Está escrita y mantenida por Francis Chollet, miembro del equipo de Google Brain. Permite a los usuarios elegir si los modelos que se construyen seran ejecutados en el grafo simbólico de [Theano](http://deeplearning.net/software/theano/), [TensorFlow](https://www.tensorflow.org/) o [CNTK](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/).
+* **[Keras](https://keras.io/)**: [Keras](https://keras.io/) es una librería de alto nivel, muy fácil de utilizar. Está escrita y mantenida por Francis Chollet, miembro del equipo de Google Brain. Permite a los usuarios elegir si los modelos que se construyen serán ejecutados en el grafo simbólico de [Theano](http://deeplearning.net/software/theano/), [TensorFlow](https://www.tensorflow.org/) o [CNTK](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/).
 
 * **[MXNet](http://mxnet.io/api/python/index.html#python-api-reference)**: [MXNet](http://mxnet.io/api/python/index.html#python-api-reference) es una librería flexible y eficiente para armar modelos de [Deep Learning](https://iaarbook.github.io/deeplearning/) con soporte para varios idiomas. 
 

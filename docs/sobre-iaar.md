@@ -13,9 +13,9 @@ Agrupa a ingenieros, desarrolladores, emprendedores, investigadores, entidades g
 
 * **Inclusión:** Tecnología al servicio de la comunidad en su conjunto.
 * **Desarrollo:** Industria argentina para el mundo.
-* **Empatía:** La vision de todos los afectados es tenida en cuenta.
+* **Empatía:** La visión de todos los afectados es tenida en cuenta.
 * **Comunicación:** Abierta, honesta, directa y efectiva.
-* **Transparencia:** Todas las operaciones estan abiertas a la comunidad.
+* **Transparencia:** Todas las operaciones están abiertas a la comunidad.
 
 ## Sumarse a la comunidad
 
