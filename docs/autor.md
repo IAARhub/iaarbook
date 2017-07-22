@@ -1,3 +1,5 @@
+Summary: Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Sobre Raúl e López Briega. Dónde vive. De qué trabaja. Pasiones. Blogs. IAAR.
+
 # Raúl E. López Briega
 
 ![yo](http://1.gravatar.com/avatar/9313eb8f6a2506d3599a2468b23bfbbe?s=100&d=wavatar&r=G)

@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Visión por computadora. ¿Qué es la visión por computadora?. Aplicaciones de la visión por computadora. Redes neuronales convolucionales. OpenCV. 
+
 # Visión por Computadora
 
 <center><img src="https://iaarbook.github.io/img/computer-vision.jpg" title="Visión artificial" alt="Visión artificial" width="80%" height="80%"></center>

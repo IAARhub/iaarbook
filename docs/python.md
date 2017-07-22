@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Introducción a Python. Principales fortalezas de Python. Instalando Python. Librerías esenciales para el analisis de datos. Numpy. Jupyter. Matplotlib. Pandas. Scikit-Lean. SciPy. Frameworks para Deep Learning. TensorFlow. PyTorch. Keras. Theano. CNTK. MXNet.
+
 # Introducción a Python
 
 <center><img alt="Python" title="Python" src="https://iaarbook.github.io/img/python-logo.png" width="50%" height="50%"></center>

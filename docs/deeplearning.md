@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Introducción al Deep Learning. Inteligencia artificial, Machine learning y Deep learning. ¿Qué es el Deep Learning?. ¿Cómo funciona?. Arquitecturas de Deep Learning. Redes neuronales prealimentadas. Redes neuronales convolucionales. Redes neuronales recurrentes. Logros del Deep Learning. ¿Por qué estos sorprendentes resultados surgen ahora? . ¿Cómo mantenerse actualizado en el campo de Deep Learning?
+
 # Introducción al Deep Learning
 
 <center><img src="https://iaarhub.github.io/images/Inteligencia-Artificial-Deep-Learning.jpg" title="Deep Learning" alt="Deep Learning"></center>

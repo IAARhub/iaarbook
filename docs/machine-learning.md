@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Machine Learning con Python. Qué es el machine learning, tipos de Machine Learning, sobreajuste, algoritmos más utilizados, librerías de python, pasos para construir un modelo.
+
 # Introducción al Machine Learning
 
 <img alt="Machine Learning" title="Machine Learning" src="http://relopezbriega.github.io/images/machine-learning.jpg">

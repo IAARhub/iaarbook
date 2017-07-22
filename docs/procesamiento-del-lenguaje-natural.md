@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Introducción al Procesamiento del Lenguaje Natural. ¿Qué es el Procesamiento del Lenguaje Natural?. Aplicaciones del Procesamiento del Lenguaje Natural. Corpus lingüístico. Librerías de Python para Procesamiento del Lenguaje Natural. Deep Learning y Procesamiento del Lenguaje Natural.
+
 # Introducción al Procesamiento del Lenguaje Natural
 
 <center><img alt="NLP" title="NLP" src="http://relopezbriega.github.io/images/NLP.png" width="60%" height="60%"></center>

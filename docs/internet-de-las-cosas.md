@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Internet de las cosas. ¿Qué es la internet de las cosas o IoT?. Factores que hacen posible la IoT. Ciudades inteligentes. Revolución industrial 4.0. La ética y la internet de las cosas.
+
 # Internet de las cosas
 
 <center><img alt="Internet de las cosas" title="Internet de las cosas" src="https://iaarbook.github.io/img/IoT.png" width="50%" height="50%"></center>

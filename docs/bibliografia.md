@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Bibliografía recomendada sobre Inteligencia artificial, ciencia de datos, deep learning y machine learning.
+
 # Bibliografía
 
 Aquí van a poder encontrar un listado de libros recomendados relacionados con la la [Inteligencia Artificial](https://iaarbook.github.io/inteligencia-artificial/) y la [Ciencia de Datos](https://iaarbook.github.io/datascience/).

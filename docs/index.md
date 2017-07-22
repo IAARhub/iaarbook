@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - La era de las máquinas inteligentes. Las nuevas máquinas. Datos como el nuevo petróleo. El Boom de la automatización. La cuarta revolución industrial. Iniciativas de IAAR.
+
 # La Era de las máquinas inteligentes 
 
 <center><img src="https://iaarbook.github.io/img/IA.jpg" title="IA" alt="IA" width="100%" height="100%"></center>

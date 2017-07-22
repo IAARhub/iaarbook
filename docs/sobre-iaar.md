@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - IAAR es la comunidad argentina de inteligencia artificial. Objetivo. Valores. Cómo sumarse a la comunidad IAAR.
+
 ## **[IAAR](http://iaar.site/)** es la comunidad argentina de inteligencia artificial
 
 Agrupa a ingenieros, desarrolladores, emprendedores, investigadores, entidades gubernamentales y empresas en pos del desarrollo ético y humanitario de las tecnologías cognitivas.

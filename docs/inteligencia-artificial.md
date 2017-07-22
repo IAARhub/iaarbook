@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Introducción a la Inteligencia Artificial. ¿Qué es la IA?. Objetivos. Enfoques. Fundamentos de la Inteligencia Artificial. Ramas de la Inteligencia Artificial. Aplicaciones. Nociones éticas. Cómo comenzar en el campo de la Inteligencia Artificial.
+
 # Introducción a la Inteligencia Artificial
 
 <center><img src="https://iaarhub.github.io/images/nteligencia-artificial.png" title="IA" alt="IA"></center>

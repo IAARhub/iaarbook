@@ -22,3 +22,4 @@ site_url: https://iaarbook.github.io/
 site_description: 'Libro online de la comunidad de Inteligencia Artificial Argentina IAAR'
 google_analytics: ['UA-29080434-5', 'iaarbook']
 theme_dir: myTheme
+site_author: 'Raul E. Lopez Briega'

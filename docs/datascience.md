@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Ciencia de datos. ¿Qué es la Ciencia de Datos?. Proceso de Ciencia de Datos. Científico de datos. Analista de datos. Ingeniero de datos. python. R. 
+
 # Ciencia de datos
 
 <center><img alt="Ciencia de datos" title="Ciencia de datos" src="https://iaarbook.github.io/img/datascience.png" width="70%" height="70%"></center>

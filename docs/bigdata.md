@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Introducción a la Big Data. ¿Qué es la Big Data?. Bases de datos NoSQL. Hadoop. Spark. Otras herramientas de Big data. Kafka. Storm.
+
 # Introducción a la Big Data
 
 <center><img alt="Big Data" title="Big Data" src="https://iaarbook.github.io/img/big_data.png" width="60%" height="60%"></center>

@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Introducción a R para la ciencia de datos. ¿Qué es R?. Ventajas de R. RStudio. Librerías para la ciencia de datos. Tidyverse. Caret. 
+
 # Introducción a R
 
 <center><img alt="R" title="R" src="https://iaarbook.github.io/img/R-lang.png" width="30%" height="30%"></center>

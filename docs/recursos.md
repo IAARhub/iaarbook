@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Enlaces de interes sobre temas relacionados a Inteligencia artificial, ciencia de datos, deep learning y machine learning.
+
 # Recursos
 
 <center><img alt="Recursos" title="Recursos" src="https://iaarbook.github.io/img/IA-recursos.jpg" width="60%" height="60%"></center>

@@ -1,3 +1,5 @@
+Summary:Libro online de la comunidad de Inteligencia Artificial Argentina IAAR - Glosario de principales términos utilizados en Inteligencia artificial, ciencia de datos, deep learning y machine learning.
+
 # Glosario de Inteligencia Artificial, Machine Learning y Ciencia de Datos
 
 En esta sección van a poder encontrar las definiciones de los términos más utilizados en el mundo de la [Inteligencia Artificial](https://iaarbook.github.io/inteligencia-artificial/) y la [Ciencia de Datos](https://iaarbook.github.io/datascience/).
