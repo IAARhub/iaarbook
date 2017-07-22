@@ -8,6 +8,7 @@ pages:
     - Big Data: bigdata.md
     - Internet de las cosas: internet-de-las-cosas.md
     - Procesamiento de lenguaje: procesamiento-del-lenguaje-natural.md
+    - Visión por computadora: vision-por-computadora.md
     - Intro Python: python.md
     - Intro R: rlang.md
     - Bibliografía: bibliografia.md

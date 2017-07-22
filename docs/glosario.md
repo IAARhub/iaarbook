@@ -44,6 +44,9 @@ En [Machine Learning](https://iaarbook.github.io/machine-learning/) los problema
 ### Clustering <a name="Clustering"></a>
 El [Clustering](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_grupos) o agrupamiento consiste en agrupar un un conjunto de objetos de tal manera que los miembros del mismo grupo (llamado *clúster*) sean más similares, en algún sentido u otro. Es el caso típico del [Aprendizaje no supervisado](#AprendNoSupervisado).
 
+### Computación en la nube <a name="CloudComp"></a>
+La [computación en la nube](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube) es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es la [internet](https://es.wikipedia.org/wiki/Internet). Los servicios que generalmente se ofrecen, se dividen en tres grandes categorías: [Infraestructura como servicio (IaaS)](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube#Infraestructura_como_servicio), [plataforma como servicio (PaaS)](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube#Plataforma_como_servicio) y [software como servicio (SaaS)](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube#Software_como_servicio).
+
 ### Conjunto de datos <a name="ConjDatos"></a>
 Un [Conjunto de datos](https://es.wikipedia.org/wiki/Conjunto_de_datos) o dataset es una colección de [Datos](#Datos) que habitualmente están estructurados en forma tabular.
 
@@ -172,6 +175,6 @@ Un [Tensor](https://es.wikipedia.org/wiki/C%C3%A1lculo_tensorial) un un arreglo 
 Un [vector](http://es.wikipedia.org/wiki/Vector) es una serie de números. Los números tienen una orden preestablecido, y podemos identificar cada número individual por su índice en ese orden. Podemos pensar en los vectores como la identificación de puntos en el espacio, con cada elemento que da la coordenada a lo largo de un eje diferente.
 
 ### Visión por computadora <a name="Vision"></a>
-La [Visión por computadora](https://es.wikipedia.org/wiki/Visi%C3%B3n_artificial) es una disciplina científica que incluye métodos para adquirir, procesar, analizar y comprender las imágenes del mundo real con el fin de producir información numérica o simbólica para que puedan ser tratados por una computadora. Es una de las ramas de la [Inteligencia Artificial](https://iaarbook.github.io/inteligencia-artificial/).
+La [Visión por computadora](https://iaarbook.github.io/vision-por-computadora/) es una disciplina científica que incluye métodos para adquirir, procesar, analizar y comprender las imágenes del mundo real con el fin de producir información numérica o simbólica para que puedan ser tratados por una computadora. Es una de las ramas de la [Inteligencia Artificial](https://iaarbook.github.io/inteligencia-artificial/).
 
 

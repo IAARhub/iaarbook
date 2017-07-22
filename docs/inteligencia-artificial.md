@@ -19,12 +19,14 @@ Los objetivos principales de la [IA](https://es.wikipedia.org/wiki/Inteligencia_
 Podemos distinguir cuatro enfoques distintos de abordar el problema de la [Inteligencia Artificial](https://es.wikipedia.org/wiki/Inteligencia_artificial). 
 
 1. **Sistemas que se comportan como humanos**: Aquí la idea es desarrollar máquinas capaces de realizar funciones para las cuales se requeriría un humano inteligente. Dentro de este enfoque podemos encontrar la famosa [Prueba de Turing](https://es.wikipedia.org/wiki/Test_de_Turing). Para poder superar esta prueba, la máquina debería poseer las siguientes capacidades:
-  * **[Procesamiento de lenguaje natural](https://es.wikipedia.org/wiki/Procesamiento_de_lenguajes_naturales)**, que le permita comunicarse satisfactoriamente. 
-  * **[Representación del conocimiento](https://es.wikipedia.org/wiki/Representaci%C3%B3n_del_conocimiento)**, para almacenar lo que se conoce o se siente.
-  * **[Razonamiento automático](https://es.wikipedia.org/wiki/Razonamiento_autom%C3%A1tico)**, para utilizar la información almacenada para responder a preguntas y extraer nuevas conclusiones.
-  * **[Aprendizaje automático](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico)**, para adaptarse a nuevas circunstancias y para detectar y extrapolar patrones.
-  * **[Visión computacional](https://es.wikipedia.org/wiki/Visi%C3%B3n_artificial)**, para percibir objetos.
-  * **[Robótica](https://es.wikipedia.org/wiki/Rob%C3%B3tica)**, para manipular y mover objetos.  
+<ul>
+<li>**[Procesamiento de lenguaje natural](https://es.wikipedia.org/wiki/Procesamiento_de_lenguajes_naturales)**, que le permita comunicarse satisfactoriamente.</li>
+<li>**[Representación del conocimiento](https://es.wikipedia.org/wiki/Representaci%C3%B3n_del_conocimiento)**, para almacenar lo que se conoce o se siente.</li>
+<li>**[Razonamiento automático](https://es.wikipedia.org/wiki/Razonamiento_autom%C3%A1tico)**, para utilizar la información almacenada para responder a preguntas y extraer nuevas conclusiones.</li>
+<li>**[Aprendizaje automático](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico)**, para adaptarse a nuevas circunstancias y para detectar y extrapolar patrones.</li>
+<li>**[Visión computacional](https://es.wikipedia.org/wiki/Visi%C3%B3n_artificial)**, para percibir objetos.</li>
+<li>**[Robótica](https://es.wikipedia.org/wiki/Rob%C3%B3tica)**, para manipular y mover objetos. </li> 
+</ul>
 
 2. **Sistemas que piensan como humanos**: Aquí la idea es hacer que las máquinas piensen como humanos en el sentido más literal; es decir, que tengan capacidades cognitivas de toma de decisiones, resolución de problemas, aprendizaje, etc. Dentro de este enfoque podemos encontrar al campo
 interdisciplinario de la [ciencia cognitiva](https://es.wikipedia.org/wiki/Ciencia_cognitiva), en el cual convergen modelos computacionales de [IA](https://es.wikipedia.org/wiki/Inteligencia_artificial) y
