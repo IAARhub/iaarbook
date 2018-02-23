@@ -94,6 +94,9 @@ En [Estadística](http://relopezbriega.github.io/category/pobabilidad-y-estadist
 ### Inteligencia Artificial <a name="IA"></a>
 La [Inteligencia Artificial](https://iaarbook.github.io/inteligencia-artificial/) es el estudio de la inforseramática centrándose en el desarrollo de software o **máquinas que exhiben una inteligencia humana**.
 
+### Interfaz cerebro computadora <a name="InterfazCerebroComp"></a>
+La [interfaz cerebro computadora](https://iaarbook.github.io/interfaz-cerebro-computadora-BCI/) o BCI es un campo multidisciplinario que utiliza los nuevos avances en [neurociencia](https://es.wikipedia.org/wiki/Neurociencia), [procesamiento de señales](https://es.wikipedia.org/wiki/Procesamiento_digital_de_se%C3%B1ales), [machine learning](#ML) y las [tecnologías de la información](https://es.wikipedia.org/wiki/Tecnolog%C3%ADas_de_la_informaci%C3%B3n_y_la_comunicaci%C3%B3n) para explorar la forma de comunicar nuestro cerebro en forma directa con las máquinas, de la misma forma en que lo hacemos con nuestro cuerpo. 
+
 ### Internet de las cosas <a name="IoT"></a>
 La [Internet de las cosas](https://iaarbook.github.io/internet-de-las-cosas/) o IoT es un concepto que se refiere a la interconexión digital de objetos cotidianos con internet, permitiendo la creación de un sin fin de sistemas inteligentes que aprovechan los beneficios de la [Big Data](https://iaarbook.github.io/bigdata/).
 

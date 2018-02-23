@@ -12,12 +12,12 @@ pages:
     - Interfaz Cerebro Computadora (BCI): interfaz-cerebro-computadora-BCI.md
     - Intro Python: python.md
     - Intro R: rlang.md
- #   - Fundamentos: 
- #     - Introducción: fundamentos.md
- #     - Algebra lineal: fundamentos/algebra-lineal.md
- #   - Algoritmos:
- #     - Introducción: algoritmos.md
- #     - Regresión lineal: algoritmos/regresion-lineal.md
+    - Fundamentos: 
+      - Introducción: fundamentos.md
+      - Algebra lineal: fundamentos/algebra-lineal.md
+    - Algoritmos:
+      - Introducción: algoritmos.md
+      - Regresión lineal: algoritmos/regresion-lineal.md
     - Bibliografía: bibliografia.md
     - Glosario: glosario.md
     - Recursos: recursos.md
