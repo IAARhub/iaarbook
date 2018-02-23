@@ -18,14 +18,31 @@ El objetivo de los sistemas de [interfaz cerebro computadora](https://iaarbook.g
 
 * **Procesamiento de señales:** Las señales en bruto son procesadas luego de ser adquiridas; se utilizan diferentes técnicas de [Reducción de dimensionalidad](https://es.wikipedia.org/wiki/Reducci%C3%B3n_de_dimensionalidad) y de [selección de atributos](https://relopezbriega.github.io/blog/2016/04/15/ejemplo-de-machine-learning-con-python-seleccion-de-atributos/) para procesarlas. 
 
+* **Reconocimiento de patrones y [machine learning](https://iaarbook.github.io/machine-learning/):** En esta etapa se utilizan las técnicas de [machine learning](https://iaarbook.github.io/machine-learning/) para generar las señales de control para los dispositivos.
+
+* **Respuesta sensorial:** La señal de control de la etapa anterior genera un cambio en el entorno. Algunos de estos cambios pueden ser escuchados, vistos o sentidos por el usuario; pero en general se pueden utilizar sensores en el ambiente (sensores táctiles, cámaras, micrófonos) para enviar una respuesta directa al cerebro vía estimulación.
+
+* **Procesamiento de señales por estimulación:** Se requiere un buen entendimiento de la región del cerebro que se quiere estimular para lograr la respuesta deseada; Aquí se utilizan técnicas de [procesamiento de señales](https://es.wikipedia.org/wiki/Procesamiento_digital_de_se%C3%B1ales) y [machine learning](https://iaarbook.github.io/machine-learning/) para intentar encontrar el correcto patrón de estimulación.
+
+* **Estimulación cerebral:** El patrón de estimulación obtenido en el punto anterior es utilizado en conjunción con técnicas invasivas o no invasivas de estimulación para estimular el cerebro. 
+
+A continuación podemos ver un diagrama de como funciona una [interfaz cerebro computadora](https://iaarbook.github.io/interfaz-cerebro-computadora-BCI/).
+
 <center><img src="https://iaarbook.github.io/img/BCI2.jpg" title="Interfaz cerebro computadora" alt="Interfaz cerebro computadora" width="80%" height="80%"></center>
 
 
 ### Formas de medir la actividad cerebral
 
+La actividad cerebral produce actividad eléctrica y magnética. Por lo tanto, se pueden utilizar sensores para detectar diferentes tipos de cambios en la actividad eléctrica o magnética, en diferentes momentos,sobre diferentes áreas del cerebro para ,de esta forma, poder estudiar la actividad cerebral.
+La mayoría de los sistemas [BCI](https://iaarbook.github.io/glosario/#BCI) se basan en mediciones eléctricas de actividad cerebral y dependen de sensores colocados sobre la cabeza para medir esta actividad. La [electroencefalografía (EEG)](https://es.wikipedia.org/wiki/Electroencefalograf%C3%ADa) es una de las principales herramientas que se utiliza y consiste en capturar la actividad cerebral por medio de colocar unos electrodos sobre el cuero cabelludo. Otros dispositivos, pero ya no tan comunes por su alto costo que se pueden utilizar para medir la actividad cerebral son: la [magnetoencefalografía (MEG)](https://es.wikipedia.org/wiki/Magnetoencefalograf%C3%ADa), la cual registra los campos magnéticos asociados con la actividad cerebral; La [resonancia magnética funcional (fMRI)](https://es.wikipedia.org/wiki/Imagen_por_resonancia_magn%C3%A9tica_funcional) que mide pequeños cambios en las señales dependientes del nivel de oxigenación de la sangre (BOLD) asociadas con la activación cortical. Al igual que la fMRI, la [espectroscopía de infrarrojo cercano (NIRS)](https://es.wikipedia.org/wiki/Espectroscopia_del_infrarrojo_cercano) es una técnica hemodinámica para la evaluación de la actividad funcional en la corteza humana.
+
+
+
+<center><img src="https://iaarbook.github.io/img/BCI3.gif" title="Interfaz cerebro computadora" alt="Interfaz cerebro computadora" width="80%" height="80%"></center>
+
 ## Aplicaciones
 
-
+Los sistemas [BCI](https://iaarbook.github.io/glosario/#BCI) pueden tener muchas aplicaciones terapéuticas, por ejemplo se pueden utilizar para proporcionar comunicación y control a usuarios con discapacidades leves, e incluso a usuarios sanos en algunas situaciones. Los sistemas [BCI](https://iaarbook.github.io/glosario/#BCI) también pueden proporcionar nuevos medios para tratar los accidentes cerebrovasculares, el autismo y otros trastornos cerebrales. 
 
 Aquí concluye esta introducción a la [interfaz cerebro computadora](https://iaarbook.github.io/interfaz-cerebro-computadora-BCI/) el reciente resurgimiento del interés en este campo se debe principalmente  a que existen computadoras más rápidas y baratas; a los avances en el conocimiento de cómo el cerebro procesa la información sensorial y produce una salida motriz; a la mayor disponibilidad de dispositivos para registrar señales cerebrales; y a las técnicas cada vez más poderosas de [procesamiento de señales](https://es.wikipedia.org/wiki/Procesamiento_digital_de_se%C3%B1ales) y [algoritmos](https://iaarbook.github.io/glosario/#Algoritmo) de [machine learning](https://iaarbook.github.io/machine-learning/).
 
